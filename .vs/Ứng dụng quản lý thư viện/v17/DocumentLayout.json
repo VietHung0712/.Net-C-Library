@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\source_data\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|solutionrelative:\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\source_data\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|c:\\visual studio c#\\window form\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|solutionrelative:\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|solutionrelative:\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|solutionrelative:\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|solutionrelative:\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07C7D38F-E73F-43F0-831B-804CD0E7C9F2}|\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n.csproj|solutionrelative:\u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Program.cs",
+              "RelativeDocumentMoniker": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Program.cs",
+              "ToolTip": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Program.cs",
+              "RelativeToolTip": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:39:31.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs",
+              "RelativeDocumentMoniker": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs",
+              "ToolTip": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs [Design]",
+              "RelativeToolTip": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:33:14.363Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs",
+              "RelativeDocumentMoniker": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs",
+              "ToolTip": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs",
+              "RelativeToolTip": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Manager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:44:17.013Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Source_Data\\DataProvider.cs",
+              "RelativeDocumentMoniker": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Source_Data\\DataProvider.cs",
+              "ToolTip": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Source_Data\\DataProvider.cs",
+              "RelativeToolTip": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\Source_Data\\DataProvider.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAYwJUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:48:18.246Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MuonSach.cs",
+              "DocumentMoniker": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs",
+              "RelativeDocumentMoniker": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs",
+              "ToolTip": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs",
+              "RelativeToolTip": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwHYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:30:31.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MuonSach.cs [Design]",
+              "DocumentMoniker": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs",
+              "RelativeDocumentMoniker": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs",
+              "ToolTip": "C:\\VIsual Studio C#\\Window Form\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs [Design]",
+              "RelativeToolTip": "\u1EE8ng d\u1EE5ng qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\MuonSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:30:27.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
